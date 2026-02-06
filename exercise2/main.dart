@@ -4,5 +4,5 @@ void createStudent({required String name, required int age}) {
 }
 
 void main() {
-  createStudent(name: "Thierry", age: 23);
+  createStudent(name: "Thierry", age: 22);
 }
